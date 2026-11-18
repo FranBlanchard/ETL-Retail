@@ -1,0 +1,5 @@
+codigo_campana,campana,tipo_campana,fecha_inicio,fecha_fin,canal_objetivo
+C01,Verano DataRetail,Estacional,2025-01-05,2025-02-28,Todos
+C02,CyberDay Otoño,Evento digital,2025-05-26,2025-05-28,E-commerce
+C03,Fiestas Patrias,Estacional,2025-09-10,2025-09-19,Todos
+C04,CyberMonday,Evento digital,2025-11-03,2025-11-04,E-commerce

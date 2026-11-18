@@ -1,0 +1,56 @@
+sku_corporativo,producto,categoria,subcategoria,marca,precio_lista,costo_unitario,version
+SKU-0001,Lacteos SurChile #1,Abarrotes,Lacteos,SurChile,28150,18083,v2
+SKU-0002,Gaseosas Maule S.A. #2,Bebidas,Gaseosas,Maule S.A.,36260,20782,v2
+SKU-0003,Jugos Genérica #3,Bebidas,Jugos,Genérica,42840,28483,v2
+SKU-0004,Limpieza hogar ImportMax #4,Aseo,Limpieza hogar,ImportMax,5270,3571,v2
+SKU-0005,Cuidado personal Andina #5,Aseo,Cuidado personal,Andina,19840,10787,v2
+SKU-0006,Pequenos electrodomesticos SurChile #6,Electro,Pequenos electrodomesticos,SurChile,16190,8546,v2
+SKU-0007,Textil hogar Maule S.A. #7,Hogar,Textil hogar,Maule S.A.,13230,7228,v2
+SKU-0008,Confites Genérica #8,Abarrotes,Confites,Genérica,32930,19168,v2
+SKU-0009,Lacteos ImportMax #9,Abarrotes,Lacteos,ImportMax,21500,12533,v2
+SKU-0010,Gaseosas Andina #10,Bebidas,Gaseosas,Andina,20600,11039,v2
+SKU-0011,Jugos SurChile #11,Bebidas,Jugos,SurChile,29210,16963,v2
+SKU-0012,Limpieza hogar Maule S.A. #12,Aseo,Limpieza hogar,Maule S.A.,24470,14683,v2
+SKU-0013,Cuidado personal Genérica #13,Aseo,Cuidado personal,Genérica,18220,10228,v2
+SKU-0014,Pequenos electrodomesticos ImportMax #14,Electro,Pequenos electrodomesticos,ImportMax,37020,22554,v2
+SKU-0015,Textil hogar Andina #15,Hogar,Textil hogar,Andina,20020,11234,v2
+SKU-0016,Confites SurChile #16,Abarrotes,Confites,SurChile,7090,4015,v2
+SKU-0017,Lacteos Maule S.A. #17,Abarrotes,Lacteos,Maule S.A.,26410,18377,v2
+SKU-0018,Gaseosas Genérica #18,Bebidas,Gaseosas,Genérica,27810,14627,v2
+SKU-0019,Jugos ImportMax #19,Bebidas,Jugos,ImportMax,8380,5115,v2
+SKU-0020,Limpieza hogar Andina #20,Aseo,Limpieza hogar,Andina,25880,17960,v2
+SKU-0021,Cuidado personal SurChile #21,Aseo,Cuidado personal,SurChile,34000,22789,v2
+SKU-0022,Pequenos electrodomesticos Maule S.A. #22,Electro,Pequenos electrodomesticos,Maule S.A.,37580,24026,v2
+SKU-0023,Textil hogar Genérica #23,Hogar,Textil hogar,Genérica,6540,3515,v2
+SKU-0024,Confites ImportMax #24,Abarrotes,Confites,ImportMax,48240,28279,v2
+SKU-0025,Lacteos Andina #25,Abarrotes,Lacteos,Andina,44400,27138,v2
+SKU-0026,Gaseosas SurChile #26,Bebidas,Gaseosas,SurChile,22960,13401,v2
+SKU-0027,Jugos Maule S.A. #27,Bebidas,Jugos,Maule S.A.,48330,25708,v2
+SKU-0028,Limpieza hogar Genérica #28,Aseo,Limpieza hogar,Genérica,17090,10196,v2
+SKU-0029,Cuidado personal ImportMax #29,Aseo,Cuidado personal,ImportMax,35190,18080,v2
+SKU-0030,Pequenos electrodomesticos Andina #30,Electro,Pequenos electrodomesticos,Andina,22360,15171,v2
+SKU-0031,Textil hogar SurChile #31,Hogar,Textil hogar,SurChile,23810,12662,v2
+SKU-0032,Confites Maule S.A. #32,Abarrotes,Confites,Maule S.A.,10340,6257,v2
+SKU-0033,Lacteos Genérica #33,Abarrotes,Lacteos,Genérica,24240,16459,v2
+SKU-0034,Gaseosas ImportMax #34,Bebidas,Gaseosas,ImportMax,30160,20960,v2
+SKU-0035,Jugos Andina #35,Bebidas,Jugos,Andina,39860,24011,v2
+SKU-0036,Limpieza hogar SurChile #36,Aseo,Limpieza hogar,SurChile,6500,4629,v2
+SKU-0037,Cuidado personal Maule S.A. #37,Aseo,Cuidado personal,Maule S.A.,36410,24285,v2
+SKU-0038,Pequenos electrodomesticos Genérica #38,Electro,Pequenos electrodomesticos,Genérica,15680,10851,v2
+SKU-0039,Textil hogar ImportMax #39,Hogar,Textil hogar,ImportMax,14740,9002,v2
+SKU-0040,Confites Andina #40,Abarrotes,Confites,Andina,10480,6312,v2
+SKU-0041,Lacteos SurChile #41,Abarrotes,Lacteos,SurChile,11700,8082,v2
+SKU-0042,Gaseosas Maule S.A. #42,Bebidas,Gaseosas,Maule S.A.,41140,22793,v2
+SKU-0043,Jugos Genérica #43,Bebidas,Jugos,Genérica,36740,21470,v2
+SKU-0044,Limpieza hogar ImportMax #44,Aseo,Limpieza hogar,ImportMax,4140,2250,v2
+SKU-0045,Cuidado personal Andina #45,Aseo,Cuidado personal,Andina,15530,10125,v2
+SKU-0046,Pequenos electrodomesticos SurChile #46,Electro,Pequenos electrodomesticos,SurChile,32070,17532,v2
+SKU-0047,Textil hogar Maule S.A. #47,Hogar,Textil hogar,Maule S.A.,11610,7554,v2
+SKU-0048,Confites Genérica #48,Abarrotes,Confites,Genérica,23900,12448,v2
+SKU-0049,Lacteos ImportMax #49,Abarrotes,Lacteos,ImportMax,14770,9284,v2
+SKU-0050,Gaseosas Andina #50,Bebidas,Gaseosas,Andina,28270,16155,v2
+SKU-0051,Jugos SurChile #51,Bebidas,Jugos,SurChile,23450,15326,v2
+SKU-0052,Limpieza hogar Maule S.A. #52,Aseo,Limpieza hogar,Maule S.A.,10730,6557,v2
+SKU-0053,Cuidado personal Genérica #53,Aseo,Cuidado personal,Genérica,4100,2305,v2
+SKU-0054,Pequenos electrodomesticos ImportMax #54,Electro,Pequenos electrodomesticos,ImportMax,4510,2947,v2
+SKU-0055,Textil hogar Andina #55,Hogar,Textil hogar,Andina,43380,26354,v2

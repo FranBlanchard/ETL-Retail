@@ -1,0 +1,51 @@
+sku_corporativo,producto,categoria,subcategoria,marca,precio_lista,costo_unitario,version
+SKU-0001,Lacteos SurChile #1,Abarrotes,Lacteos,SurChile,26650,18083,v1
+SKU-0002,Gaseosas Maule S.A. #2,Bebidas,Gaseosas,Maule S.A.,33310,20782,v1
+SKU-0003,Jugos Genérica #3,Bebidas,Jugos,Genérica,40120,28483,v1
+SKU-0004,Limpieza hogar ImportMax #4,Aseo,Limpieza hogar,ImportMax,5050,3571,v1
+SKU-0005,Cuidado personal Andina #5,Aseo,Cuidado personal,Andina,18230,10787,v1
+SKU-0006,Pequenos electrodomesticos SurChile #6,Electro,Pequenos electrodomesticos,SurChile,15500,8546,v1
+SKU-0007,Textil hogar Maule S.A. #7,Hogar,Textil hogar,Maule S.A.,12570,7228,v1
+SKU-0008,Confites Genérica #8,Abarrotes,Confites,Genérica,31010,19168,v1
+SKU-0009,Lacteos ImportMax #9,Abarrotes,Lacteos,ImportMax,20790,12533,v1
+SKU-0010,Gaseosas Andina #10,Bebidas,Gaseosas,Andina,19320,11039,v1
+SKU-0011,Jugos SurChile #11,Bebidas,Jugos,SurChile,27600,16963,v1
+SKU-0012,Limpieza hogar Maule S.A. #12,Aseo,Limpieza hogar,Maule S.A.,22890,14683,v1
+SKU-0013,Cuidado personal Genérica #13,Aseo,Cuidado personal,Genérica,17340,10228,v1
+SKU-0014,Pequenos electrodomesticos ImportMax #14,Electro,Pequenos electrodomesticos,ImportMax,34770,22554,v1
+SKU-0015,Textil hogar Andina #15,Hogar,Textil hogar,Andina,19400,11234,v1
+SKU-0016,Confites SurChile #16,Abarrotes,Confites,SurChile,6750,4015,v1
+SKU-0017,Lacteos Maule S.A. #17,Abarrotes,Lacteos,Maule S.A.,25630,18377,v1
+SKU-0018,Gaseosas Genérica #18,Bebidas,Gaseosas,Genérica,25570,14627,v1
+SKU-0019,Jugos ImportMax #19,Bebidas,Jugos,ImportMax,7940,5115,v1
+SKU-0020,Limpieza hogar Andina #20,Aseo,Limpieza hogar,Andina,24410,17960,v1
+SKU-0021,Cuidado personal SurChile #21,Aseo,Cuidado personal,SurChile,32250,22789,v1
+SKU-0022,Pequenos electrodomesticos Maule S.A. #22,Electro,Pequenos electrodomesticos,Maule S.A.,35240,24026,v1
+SKU-0023,Textil hogar Genérica #23,Hogar,Textil hogar,Genérica,6020,3515,v1
+SKU-0024,Confites ImportMax #24,Abarrotes,Confites,ImportMax,44290,28279,v1
+SKU-0025,Lacteos Andina #25,Abarrotes,Lacteos,Andina,41860,27138,v1
+SKU-0026,Gaseosas SurChile #26,Bebidas,Gaseosas,SurChile,20910,13401,v1
+SKU-0027,Jugos Maule S.A. #27,Bebidas,Jugos,Maule S.A.,44930,25708,v1
+SKU-0028,Limpieza hogar Genérica #28,Aseo,Limpieza hogar,Genérica,15930,10196,v1
+SKU-0029,Cuidado personal ImportMax #29,Aseo,Cuidado personal,ImportMax,32690,18080,v1
+SKU-0030,Pequenos electrodomesticos Andina #30,Electro,Pequenos electrodomesticos,Andina,21180,15171,v1
+SKU-0031,Textil hogar SurChile #31,Hogar,Textil hogar,SurChile,22730,12662,v1
+SKU-0032,Confites Maule S.A. #32,Abarrotes,Confites,Maule S.A.,9470,6257,v1
+SKU-0033,Lacteos Genérica #33,Abarrotes,Lacteos,Genérica,22800,16459,v1
+SKU-0034,Gaseosas ImportMax #34,Bebidas,Gaseosas,ImportMax,28720,20960,v1
+SKU-0035,Jugos Andina #35,Bebidas,Jugos,Andina,38340,24011,v1
+SKU-0036,Limpieza hogar SurChile #36,Aseo,Limpieza hogar,SurChile,6270,4629,v1
+SKU-0037,Cuidado personal Maule S.A. #37,Aseo,Cuidado personal,Maule S.A.,33430,24285,v1
+SKU-0038,Pequenos electrodomesticos Genérica #38,Electro,Pequenos electrodomesticos,Genérica,14630,10851,v1
+SKU-0039,Textil hogar ImportMax #39,Hogar,Textil hogar,ImportMax,13680,9002,v1
+SKU-0040,Confites Andina #40,Abarrotes,Confites,Andina,10130,6312,v1
+SKU-0041,Lacteos SurChile #41,Abarrotes,Lacteos,SurChile,11150,8082,v1
+SKU-0042,Gaseosas Maule S.A. #42,Bebidas,Gaseosas,Maule S.A.,38590,22793,v1
+SKU-0043,Jugos Genérica #43,Bebidas,Jugos,Genérica,34020,21470,v1
+SKU-0044,Limpieza hogar ImportMax #44,Aseo,Limpieza hogar,ImportMax,3950,2250,v1
+SKU-0045,Cuidado personal Andina #45,Aseo,Cuidado personal,Andina,14980,10125,v1
+SKU-0046,Pequenos electrodomesticos SurChile #46,Electro,Pequenos electrodomesticos,SurChile,30100,17532,v1
+SKU-0047,Textil hogar Maule S.A. #47,Hogar,Textil hogar,Maule S.A.,10740,7554,v1
+SKU-0048,Confites Genérica #48,Abarrotes,Confites,Genérica,22150,12448,v1
+SKU-0049,Lacteos ImportMax #49,Abarrotes,Lacteos,ImportMax,14080,9284,v1
+SKU-0050,Gaseosas Andina #50,Bebidas,Gaseosas,Andina,27340,16155,v1

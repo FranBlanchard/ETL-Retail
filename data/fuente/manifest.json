@@ -1,0 +1,82 @@
+{
+  "semilla": 360,
+  "generado_en": "2026-11-18T14:42:46.826002",
+  "archivos": {
+    "_errores_insertados.csv": {
+      "sha256": "60b3c8c78dd50542e64789fdb4f09c2d4a9ec7939f552d90f2621cc266929fb3",
+      "bytes": 607
+    },
+    "campanas.csv": {
+      "sha256": "7ca65a5965dd953a248a070dfd54678486b7c3d0d1012e70b5bf0641c6e6587d",
+      "bytes": 326
+    },
+    "clientes_crm_v1.csv": {
+      "sha256": "cd9241b08d8781a4a1a2c31ebb1f3e8aee1a19b9ccbaa19e201ed194cfc93feb",
+      "bytes": 19055
+    },
+    "clientes_crm_v2.csv": {
+      "sha256": "b0c3bcc0db8650901697ceb1b117b26a28b892621e4470e7e795d1215c8c0c7b",
+      "bytes": 21628
+    },
+    "devoluciones_2025_S1.csv": {
+      "sha256": "aefe1cbaa52f344f23e244ac4bae7e8da24903820c8bdba3a0efda522ec7dd98",
+      "bytes": 5471
+    },
+    "devoluciones_2025_S2.csv": {
+      "sha256": "b3c0cd07779bc72af8652bb8b33b6ab83a4730cf4dea18ab90206a52fec39823",
+      "bytes": 5961
+    },
+    "equivalencias_productos.csv": {
+      "sha256": "008a4b9b2eaa8835a495eed6fc3c51c784a6033c1e8fecde6d8c70a7ec14769c",
+      "bytes": 1757
+    },
+    "geografia_cut.csv": {
+      "sha256": "67c0ad3c75789e4d6268855bdfbafffbd5491c10bc3c729d9071335b2c3f919b",
+      "bytes": 2087
+    },
+    "legado_ventas_2018.csv": {
+      "sha256": "5b684740a985ca4ed733a4a166f03cc6cb03b5005e9ffa0a151e33cdba7eae7e",
+      "bytes": 45189
+    },
+    "pos_ventas_2025_S1.csv": {
+      "sha256": "e55909de39c84ddc156b4776ae0ef2534a20fca5d53f2fdd0f25ff5950548560",
+      "bytes": 122517
+    },
+    "pos_ventas_2025_S2.csv": {
+      "sha256": "3c58a323aead4868c59f9ca6a6af46318bba49e0dd48927d97b0a78cedc56fa2",
+      "bytes": 129261
+    },
+    "productos_v1.csv": {
+      "sha256": "b4500ff749b683c7fcc7a3807ca65e6542dee85ca0f0477444f5006fedbcab08",
+      "bytes": 4060
+    },
+    "productos_v2.csv": {
+      "sha256": "51869602e7991791513e9d38c808329d16daadeaf74edd82acb5820a9894569f",
+      "bytes": 4478
+    },
+    "stock_diario_2025_S1.csv": {
+      "sha256": "c105b87424f8f5efb8bbc2df83ab0b776175dd15c88ca9fc3aa5f2d59c9883bf",
+      "bytes": 315628
+    },
+    "stock_diario_2025_S2.csv": {
+      "sha256": "addea8a4649800b7e70a296b6efc2ab05fac21f7c1e04dfb22fe4b936602c713",
+      "bytes": 315497
+    },
+    "sucursales_v1.csv": {
+      "sha256": "9a91d4444690a3f6e5e007ab0333caefa925c8d9dd17c908932a61a101026abb",
+      "bytes": 571
+    },
+    "sucursales_v2.csv": {
+      "sha256": "004b0c368938610c9d185933a08d20d20a6d8322f9c494ef414de2d5a54da5f8",
+      "bytes": 550
+    },
+    "web_pedidos_2025_S1.csv": {
+      "sha256": "c88bb14590e21d5c6199b8cb3ebc84f568255484321bf329ccfd036ce6131283",
+      "bytes": 65076
+    },
+    "web_pedidos_2025_S2.csv": {
+      "sha256": "d512dcb3b2039b3c2882cd50d573e620ee2ed91ed96ccffc6da6a46815f5ed63",
+      "bytes": 71613
+    }
+  }
+}

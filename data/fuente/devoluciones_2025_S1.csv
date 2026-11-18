@@ -1,0 +1,121 @@
+nro_boleta,linea_boleta,fecha,cantidad_devuelta,motivo
+B1-001246,1,25/04/2025,3,Arrepentimiento
+B1-001012,1,26/05/2025,6,Producto defectuoso
+B1-000793,1,22/06/2025,1,Talla/empaque incorrecto
+B1-000537,1,16/04/2025,2,Talla/empaque incorrecto
+B1-000235,1,28/06/2025,1,Talla/empaque incorrecto
+B1-000014,1,15/04/2025,1,Talla/empaque incorrecto
+B1-001764,1,18/02/2025,3,Producto defectuoso
+B1-000587,1,04/03/2025,2,Talla/empaque incorrecto
+B1-001177,1,27/03/2025,1,Arrepentimiento
+B1-000779,1,01/03/2025,6,Arrepentimiento
+B1-000423,1,10/02/2025,3,Arrepentimiento
+B1-000609,1,15/01/2025,3,Producto defectuoso
+B1-000221,1,02/02/2025,2,Arrepentimiento
+B1-001343,1,11/01/2025,1,Producto defectuoso
+B1-000094,1,23/01/2025,2,Talla/empaque incorrecto
+B1-000850,1,17/06/2025,5,Arrepentimiento
+B1-000321,1,18/06/2025,5,Arrepentimiento
+B1-001198,1,03/05/2025,1,Talla/empaque incorrecto
+B1-000484,1,11/04/2025,4,Arrepentimiento
+B1-000667,1,14/04/2025,4,Arrepentimiento
+B1-000935,1,22/04/2025,4,Talla/empaque incorrecto
+B1-000687,1,10/02/2025,1,Producto defectuoso
+B1-000151,1,11/05/2025,4,Producto defectuoso
+B1-000586,1,15/05/2025,2,Arrepentimiento
+B1-001776,1,14/01/2025,3,Arrepentimiento
+B1-000750,1,02/06/2025,2,Talla/empaque incorrecto
+B1-000633,1,2025/05/11,2,Producto defectuoso
+B1-001007,1,26/01/2025,3,Producto defectuoso
+B1-001625,1,21/01/2025,2,Arrepentimiento
+B1-000898,1,05/06/2025,2,Arrepentimiento
+B1-000222,1,25/03/2025,2,Arrepentimiento
+B1-000439,1,07/02/2025,3,Arrepentimiento
+B1-000870,1,14/03/2025,3,Talla/empaque incorrecto
+B1-001753,1,26/05/2025,1,Talla/empaque incorrecto
+B1-001608,1,09/04/2025,1,Arrepentimiento
+B1-000851,1,28/06/2025,2,Talla/empaque incorrecto
+B1-000707,1,01/05/2025,2,Producto defectuoso
+B1-000245,1,16/05/2025,1,Producto defectuoso
+B1-000085,1,30/01/2025,1,Producto defectuoso
+B1-001695,1,23/06/2025,4,Producto defectuoso
+B1-000827,1,01/02/2025,1,Talla/empaque incorrecto
+B1-000497,1,04/03/2025,2,Talla/empaque incorrecto
+B1-000103,1,02/01/2025,1,Producto defectuoso
+B1-000525,1,21/05/2025,2,Talla/empaque incorrecto
+B1-001521,1,11/02/2025,1,Arrepentimiento
+B1-000531,1,30/04/2025,3,Producto defectuoso
+B1-001298,1,04/06/2025,1,Producto defectuoso
+B1-001512,1,28/04/2025,1,Producto defectuoso
+B1-000252,1,29/06/2025,1,Talla/empaque incorrecto
+B1-000926,1,13/05/2025,2,Producto defectuoso
+B1-001160,1,25/02/2025,1,Arrepentimiento
+B1-000248,1,21/05/2025,4,Arrepentimiento
+B1-000735,1,08/02/2025,3,Producto defectuoso
+B1-000297,1,01/01/2025,1,Talla/empaque incorrecto
+B1-000513,1,20/01/2025,1,Talla/empaque incorrecto
+B1-001124,1,23/05/2025,1,Arrepentimiento
+B1-001468,1,29/03/2025,5,Arrepentimiento
+B1-000864,1,04/04/2025,2,Producto defectuoso
+B1-001335,1,29/04/2025,4,Producto defectuoso
+B1-000336,1,2025/04/07,2,Arrepentimiento
+B1-000496,1,19/04/2025,3,Producto defectuoso
+B1-000654,1,22/05/2025,4,Producto defectuoso
+B1-000720,1,05/05/2025,5,Arrepentimiento
+B1-000666,1,12/03/2025,2,Arrepentimiento
+B1-001524,1,16/02/2025,1,Producto defectuoso
+B1-001554,1,17/04/2025,2,Arrepentimiento
+B1-001498,1,02/03/2025,3,Producto defectuoso
+B1-000902,1,04/04/2025,2,Arrepentimiento
+B1-000025,1,17/03/2025,1,Producto defectuoso
+B1-000993,1,2025/03/08,6,Arrepentimiento
+B1-000020,1,20/03/2025,2,Producto defectuoso
+B1-000227,1,12/03/2025,5,Talla/empaque incorrecto
+B1-000301,1,16/06/2025,1,Producto defectuoso
+B1-001352,1,30/06/2025,3,Producto defectuoso
+B1-001434,1,08/06/2025,1,Arrepentimiento
+B1-000451,1,04/04/2025,3,Talla/empaque incorrecto
+B1-001621,1,2025/02/11,1,Arrepentimiento
+B1-001690,1,29/03/2025,1,Producto defectuoso
+B1-001162,1,31/05/2025,1,Arrepentimiento
+B1-000355,1,28/01/2025,2,Producto defectuoso
+B1-000997,1,31/01/2025,4,Producto defectuoso
+B1-001174,1,28/03/2025,3,Talla/empaque incorrecto
+B1-001334,1,30/06/2025,1,Talla/empaque incorrecto
+B1-000761,1,29/04/2025,1,Arrepentimiento
+B1-000019,1,03/01/2025,2,Producto defectuoso
+B1-001550,1,11/05/2025,2,Arrepentimiento
+B1-000490,1,01/04/2025,4,Producto defectuoso
+B1-000320,1,23/06/2025,5,Talla/empaque incorrecto
+B1-000883,1,30/01/2025,1,Talla/empaque incorrecto
+B1-001117,1,17/01/2025,3,Talla/empaque incorrecto
+B1-001230,1,13/03/2025,1,Talla/empaque incorrecto
+B1-001724,1,01/01/2025,1,Arrepentimiento
+B1-000129,1,31/03/2025,3,Arrepentimiento
+B1-001393,1,25/04/2025,2,Talla/empaque incorrecto
+B1-000350,1,2025/05/16,6,Talla/empaque incorrecto
+B1-001653,1,29/01/2025,1,Producto defectuoso
+B1-000933,1,26/05/2025,3,Arrepentimiento
+B1-001238,1,18/04/2025,1,Talla/empaque incorrecto
+B1-000457,1,06/06/2025,6,Producto defectuoso
+B1-001050,1,29/04/2025,1,Talla/empaque incorrecto
+B1-000585,1,22/01/2025,1,Arrepentimiento
+B1-000797,1,15/04/2025,2,Arrepentimiento
+B1-000491,1,01/02/2025,1,Talla/empaque incorrecto
+B1-000226,1,05/05/2025,1,Producto defectuoso
+B1-001101,1,01/03/2025,2,Talla/empaque incorrecto
+B1-000156,1,25/05/2025,1,Talla/empaque incorrecto
+B1-001217,1,10/03/2025,4,Producto defectuoso
+B1-000970,1,30/01/2025,1,Talla/empaque incorrecto
+B1-001188,1,19/05/2025,2,Arrepentimiento
+B1-001241,1,06/06/2025,2,Arrepentimiento
+B1-001072,1,18/04/2025,2,Talla/empaque incorrecto
+B1-001687,1,03/02/2025,2,Producto defectuoso
+B1-001506,1,16/03/2025,1,Producto defectuoso
+B1-001115,1,2025/03/31,1,Talla/empaque incorrecto
+B1-001671,1,08/04/2025,3,Producto defectuoso
+B1-000024,1,15/06/2025,1,Producto defectuoso
+B1-001650,1,02/02/2025,3,Arrepentimiento
+B1-000335,1,25/04/2025,2,Arrepentimiento
+B1-001165,1,14/06/2025,3,Producto defectuoso
+B1-001287,1,2025/03/28,1,Producto defectuoso

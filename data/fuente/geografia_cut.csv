@@ -1,0 +1,37 @@
+codigo_comuna,codigo_cut_vigente,comuna,provincia,region,pais,valido_desde,valido_hasta,es_actual
+07101,07101,Talca,Talca,Maule,Chile,1979-01-01,,1
+07102,07102,Constitución,Talca,Maule,Chile,1979-01-01,,1
+07103,07103,Curepto,Talca,Maule,Chile,1979-01-01,,1
+07104,07104,Empedrado,Talca,Maule,Chile,1979-01-01,,1
+07105,07105,Maule,Talca,Maule,Chile,1979-01-01,,1
+07106,07106,Pelarco,Talca,Maule,Chile,1979-01-01,,1
+07107,07107,Pencahue,Talca,Maule,Chile,1979-01-01,,1
+07108,07108,Rio Claro,Talca,Maule,Chile,1979-01-01,,1
+07109,07109,San Clemente,Talca,Maule,Chile,1979-01-01,,1
+07110,07110,San Rafael,Talca,Maule,Chile,1979-01-01,,1
+07201,07201,Cauquenes,Cauquenes,Maule,Chile,1979-01-01,,1
+07202,07202,Chanco,Cauquenes,Maule,Chile,1979-01-01,,1
+07203,07203,Pelluhue,Cauquenes,Maule,Chile,1979-01-01,,1
+07301,07301,Curico,Curico,Maule,Chile,1979-01-01,,1
+07302,07302,Hualane,Curico,Maule,Chile,1979-01-01,,1
+07303,07303,Licanten,Curico,Maule,Chile,1979-01-01,,1
+07304,07304,Molina,Curico,Maule,Chile,1979-01-01,,1
+07305,07305,Rauco,Curico,Maule,Chile,1979-01-01,,1
+07306,07306,Romeral,Curico,Maule,Chile,1979-01-01,,1
+07307,07307,Sagrada Familia,Curico,Maule,Chile,1979-01-01,,1
+07308,07308,Teno,Curico,Maule,Chile,1979-01-01,,1
+07309,07309,Vichuquen,Curico,Maule,Chile,1979-01-01,,1
+07401,07401,Linares,Linares,Maule,Chile,1979-01-01,,1
+07402,07402,Colbun,Linares,Maule,Chile,1979-01-01,,1
+07403,07403,Longavi,Linares,Maule,Chile,1979-01-01,,1
+07404,07404,Parral,Linares,Maule,Chile,1979-01-01,,1
+07405,07405,Retiro,Linares,Maule,Chile,1979-01-01,,1
+07406,07406,San Javier,Linares,Maule,Chile,1979-01-01,,1
+07407,07407,Villa Alegre,Linares,Maule,Chile,1979-01-01,,1
+07408,07408,Yerbas Buenas,Linares,Maule,Chile,1979-01-01,,1
+08101,16101,Chillan,Biobio,Biobio,Chile,1979-01-01,2018-09-06,0
+16101,16101,Chillan,Diguillin,Nuble,Chile,2018-09-06,,1
+08102,16102,Bulnes,Biobio,Biobio,Chile,1979-01-01,2018-09-06,0
+16102,16102,Bulnes,Diguillin,Nuble,Chile,2018-09-06,,1
+08103,16103,Quirihue,Biobio,Biobio,Chile,1979-01-01,2018-09-06,0
+16103,16103,Quirihue,Diguillin,Nuble,Chile,2018-09-06,,1

@@ -1,0 +1,11 @@
+archivo,tipo_error,cantidad,filas_totales,proporcion
+pos_ventas_2025_S1,filas_duplicadas,27,1827,0.0148
+pos_ventas_2025_S1,codigo_producto_inexistente,41,1827,0.0224
+pos_ventas_2025_S2,filas_duplicadas,28,1928,0.0145
+pos_ventas_2025_S2,codigo_producto_inexistente,41,1928,0.0213
+web_pedidos_2025_S1,cantidad_nula,28,950,0.0295
+web_pedidos_2025_S1,codigo_producto_inexistente,16,950,0.0168
+web_pedidos_2025_S2,cantidad_nula,31,1050,0.0295
+web_pedidos_2025_S2,codigo_producto_inexistente,19,1050,0.0181
+stock_diario_2025_S1,stock_negativo,450,11440,0.0393
+stock_diario_2025_S2,stock_negativo,439,11440,0.0384
